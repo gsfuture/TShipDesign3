@@ -9,7 +9,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1>TShipDesign3 React App 99999</h1>
+      <h1>TShipDesign3 React App 99999 99900000</h1>
       <p>欢迎使用 React + TypeScript + Vite 基础框架</p>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
